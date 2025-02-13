@@ -88,6 +88,7 @@ content:
     layout: list
     content:
       - layout: right
+        sub_title: Soft Skills
         caption: Good communication and interpersonal skills. Effective time management and teamwork. Patient, sociable, friendly.
         description: |
           - **System Administration**
