@@ -87,7 +87,8 @@ content:
   - title: Skills
     layout: list
     content:
-      - layout: top-middle
+      - layout: right
+        caption: Good communication and interpersonal skills. Effective time management and teamwork. Patient, sociable, friendly.
         description: |
           - **System Administration**
             - Networking, Scripting, Monitoring, Security, Active Directory, Cloud Computing
