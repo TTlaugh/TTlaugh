@@ -110,7 +110,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: Information Technology Center of Saigon University.
+        title: Information Technology Center of Saigon University
         sub_title: Intern Network System Administrator
         caption: October 2024 - Present
         link: https://ttcntt.sgu.edu.vn/
@@ -150,7 +150,7 @@ content:
 
 ### Footer
 footer_show_references: true
-references_title: TTlaugh
+references_title: Ho Chi Minh, Viet Nam
 
 ### Build settings
 remote_theme: sproogen/resume-theme
