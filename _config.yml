@@ -12,7 +12,7 @@ email: nltt@tuta.io
 # website:
 
 ### Dark Mode (true/false/never)
-darkmode: never
+darkmode: false
 
 ### Social links
 github_username:  TTlaugh
