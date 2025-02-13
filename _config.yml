@@ -102,10 +102,8 @@ content:
         link: https://ttcntt.sgu.edu.vn/
         link_text: ttcntt.sgu.edu.vn
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
           *Every modern university needs its networks properly administered and Saigon University is no exception.*
-
+        description: | # this will include new lines to allow paragraphs
           <mark>Linux Server</mark> <mark>Windows AD</mark> <mark>Bash/PowerShell</mark> <mark>Docker</mark>
 
           - Gained on the job experience with industry standard software and practices
