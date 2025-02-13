@@ -131,8 +131,9 @@ content:
       - Cooking (really love cooking!)
       - Reading Book
       - Gaming (seft-host all my games server on my home server!)
-      - Linux Ricing
-      ![Dotfiles](/TTlaugh/images/dotfiles.png "Dotfiles")
+      - Linux Ricing:
+
+      ![https://github.com/TTlaugh/Dotfiles](/TTlaugh/images/dotfiles.png "Dotfiles")
 
     ### Footer
 footer_show_references: true
