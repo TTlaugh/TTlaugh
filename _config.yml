@@ -9,25 +9,25 @@ version: 2
 name: Nguyễn Lê Tiến Triển
 title: Intern Network System Administrator
 email: nltt@tuta.io
-# website: github.com/TTlaugh
+# website:
 
 ### Dark Mode (true/false/never)
 darkmode: never
 
 ### Social links
-# twitter_username: TTlaugh
 github_username:  TTlaugh
 stackoverflow_username: "29622488"
-# dribbble_username: TTlaugh
-# facebook_username: TTlaugh
-# flickr_username: TTlaugh
-# instagram_username: TTlaugh
 linkedin_username: TTlaugh
-# xing_username: TTlaugh
-# pinterest_username: TTlaugh
-# youtube_username: TTlaugh
-# googleplus_username: +TTlaugh
-# orcid_username: 0000-0000-0000-0000
+# twitter_username:
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+# instagram_username:
+# xing_username:
+# pinterest_username:
+# youtube_username:
+# googleplus_username:
+# orcid_username:
 
 ### Additional icon links
 # additional_links:
@@ -38,35 +38,25 @@ linkedin_username: TTlaugh
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-### Google Analytics and Tag Manager
-### Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 ### About Section
 about_title: About Me
 about_profile_image: images/profile.jpeg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Hi, my name's Trien and I'm a intern network system administrator. As well as administrating systems I also have experience making software. I hope to work in a challenging and engaging environment where I can contribute my skills towards a meaningful goal.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         border: weak
         title: QMgr
         sub_title: Founder & Primary Developer
         link: https://github.com/TTlaugh/QMgr
-        link_text: visit
-        # additional_links:
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # link_text: visit
         quote: >
           Quiz management system for schools, teachers or simply want to organize a quiz test.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           I started this project as a way to learn about **Java** and **OOP**. In its early days, it was just a simple CLI software without a database. With the collaboration of my friends at university, I continued to develop it into a beautiful **GUI** application that can be used over a **LAN**.
 
           <mark>JavaFX</mark> <mark>Socket</mark> <mark>Multithreading</mark> <mark>MariaDB/MySQL</mark> <mark>Networking</mark>
@@ -75,10 +65,10 @@ content:
         title: anett
         sub_title: Founder & Primary Developer
         link: https://github.com/TTlaugh/anett
-        link_text: visit
+        # link_text: visit
         quote: >
           System administration project: Terminal User Interface (TUI) tool that automatically install and configure services on linux server using docker e.g. DNS, FTP, Web,...
-        description: | # this will include new lines to allow paragraphs
+        description: |
           The idea behind this project was to simplify and make the process of setting up and configuring network services more user-friendly. This TUI tool has made that vision a reality. Through my teacher, I gained a lot of valuable knowledge about network system administration, and by working on this project, I was able to solidify my understanding of those concepts.
 
           <mark>Linux Server</mark> <mark>Docker</mark> <mark>Shell</mark> <mark>TUI</mark> <mark>Networking</mark>
@@ -86,40 +76,34 @@ content:
         title: Dotfiles
         sub_title: Explorer & Developer
         link: https://github.com/TTlaugh/Dotfiles
-        link_text: visit
+        # link_text: visit
         quote: >
           My Linux Dotfiles: Minimal, performance-focused. Extremely fast and small without sacrificing convenience.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           I started exploring the world of Linux when I first entered high school. After a period of using Windows and gaining some experience in troubleshooting and problem-solving, I decided to switch to a new home - GNU/Linux. Through my journey with multiple Linux distributions and continuous exploration, I gained a deeper understanding of many computer-related concepts, including hardware, networking, and how an operating system works. I also started learning programming and created my own development environment on Linux, which is my Dotfiles.
 
           <mark>Administration</mark> <mark>Troubleshooting</mark> <mark>Scripting</mark> <mark>Home server</mark>
 
   - title: Skills
-    layout: list
-    content:
-      - sub_title: System Administration
-        description: |
-          - Networking, Scripting, Monitoring, Security, Active Directory, Cloud Computing
-      - sub_title: Hardware
-        description: |
-          - System Building, Maintenance, Prototyping
-      - sub_title: Systems
-        description: |
-          - Debian - Redhat - Arch based Linux, Proxmox
-          - Windows 10/11, Windows Server
-      - sub_title: Software (Backend)
-        description: |
-          - Docker, MySQL/MariaDB, Apache, NGINX, IIS
-      - sub_title: Software (Other)
-        description: |
-          - Git, Vim, Eclipse, OSS,...
-      - sub_title: Languages
-        description: |
-          - C, C++, Java, GO, Python
-          - Bash, Powershell, SQL
+    layout: text
+    content: |
+      **System Administration**
+        - Networking, Scripting, Monitoring, Security, Active Directory, Cloud Computing
+      ## Hardware
+        - System Building, Maintenance, Prototyping
+      Systems
+        - Debian - Redhat - Arch based Linux, Proxmox
+        - Windows 10/11, Windows Server
+      Software (Backend)
+        - Docker, MySQL/MariaDB, Apache, NGINX, IIS
+      Software (Other)
+        - Git, Vim, Eclipse, OSS,...
+      Languages
+        - C, C++, Java, GO, Python
+        - Bash, Powershell, SQL
 
-  - title: Work Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Work Experience
+    layout: list
     content:
       - layout: left
         title: Information Technology Center of Saigon University.
@@ -129,15 +113,15 @@ content:
         link_text: ttcntt.sgu.edu.vn
         quote: >
           Every modern university needs its networks properly administered and Saigon University is no exception.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           <mark>Linux Server</mark> <mark>Windows AD</mark> <mark>Bash/PowerShell</mark> <mark>Docker</mark>
 
           - Gained on the job experience with industry standard software and practices
           - Developed tools and utilities for application deployment and monitoring
           - Provide top-level technical support to university students and staff
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: Saigon University (SGU)
@@ -145,19 +129,18 @@ content:
         sub_title: BSc Computer Engineering
         # quote: >
         #
-        description: | # this will include new lines to allow paragraphs
+        description: |
           During my time at SGU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-  - title: A Little More About Me
+  - title: When I’m Not At My Desk
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
+      ![cooking.gif](/TTlaugh/images/cooking.gif "Wanna cook with me?")
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Cooking (really love cooking!)
-      - Reading Book
+      - Traveling
       - Gaming (seft-host all my games server on my home server)
       - Linux Ricing
-
-      ![Cooking gif](/TTlaugh/images/cooking.gif "Wanna cook with me?")
 
 ### Footer
 footer_show_references: true
