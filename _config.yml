@@ -70,6 +70,9 @@ content:
 
           <mark>JavaFX</mark> <mark>Socket</mark> <mark>Multithreading</mark> <mark>MariaDB/MySQL</mark> <mark>Networking</mark>
 
+  - title: # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: top
         title: anett
         sub_title: Founder & Primary Developer
@@ -82,6 +85,9 @@ content:
 
           <mark>Linux Server</mark> <mark>Docker</mark> <mark>Shell</mark> <mark>TUI</mark> <mark>Networking</mark>
 
+  - title: # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: top
         title: Dotfiles
         sub_title: Explorer & Developer
@@ -119,8 +125,8 @@ content:
         title: Saigon University (SGU)
         caption: 2022 - Ongoing
         sub_title: BSc Computer Engineering
-        quote: >
-          *Tiền thân của trường Đại học Sài Gòn là Trường Sư phạm cấp 2 miền Nam Việt Nam thành lập vào tháng 2 năm 1972. Trường Đại học Sài Gòn là trường đào tạo đa ngành, đa cấp, đa lĩnh vực và các chứng chỉ ngoại ngữ A, B, C, A2, B1; chứng chỉ ứng dụng công nghệ thông tin,...*
+        # quote: >
+        #
         description: | # this will include new lines to allow paragraphs
           During my time at SGU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -133,11 +139,11 @@ content:
       - Gaming (seft-host all my games server on my home server!)
       - Linux Ricing:
 
-      ![https://github.com/TTlaugh/Dotfiles](/TTlaugh/images/dotfiles.png "Dotfiles")
+      ![https://github.com/TTlaugh/Dotfiles](/TTlaugh/images/dotfiles.png "Dotfiles banner")
 
-    ### Footer
+### Footer
 footer_show_references: true
-references_title: HEHE
+references_title: TTlaugh
 
 ### Build settings
 remote_theme: sproogen/resume-theme
