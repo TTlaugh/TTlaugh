@@ -94,6 +94,30 @@ content:
 
           <mark>Administration</mark> <mark>Troubleshooting</mark> <mark>Scripting</mark> <mark>Home server</mark>
 
+  - title: Skills
+    layout: list
+    content:
+      - sub_title: System Administration
+        description: |
+          - Networking, Scripting, Monitoring, Security, Active Directory, Cloud Computing
+      - sub_title: Hardware
+        description: |
+          - System Building, Maintenance, Prototyping
+      - sub_title: Systems
+        description: |
+          - Debian - Redhat - Arch based Linux, Proxmox
+          - Windows 10/11, Windows Server
+      - sub_title: Software (Backend)
+        description: |
+          - Docker, MySQL/MariaDB, Apache, NGINX, IIS
+      - sub_title: Software (Other)
+        description: |
+          - Git, Vim, Eclipse, OSS,...
+      - sub_title: Languages
+        description: |
+          - C, C++, Java, GO, Python
+          - Bash, Powershell, SQL
+
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -104,7 +128,7 @@ content:
         link: https://ttcntt.sgu.edu.vn/
         link_text: ttcntt.sgu.edu.vn
         quote: >
-          *Every modern university needs its networks properly administered and Saigon University is no exception.*
+          Every modern university needs its networks properly administered and Saigon University is no exception.
         description: | # this will include new lines to allow paragraphs
           <mark>Linux Server</mark> <mark>Windows AD</mark> <mark>Bash/PowerShell</mark> <mark>Docker</mark>
 
@@ -130,10 +154,10 @@ content:
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Cooking (really love cooking!)
       - Reading Book
-      - Gaming (seft-host all my games server on my home server!)
-      - Linux Ricing:
+      - Gaming (seft-host all my games server on my home server)
+      - Linux Ricing
 
-      ![https://github.com/TTlaugh/Dotfiles](/TTlaugh/images/dotfiles.png "Dotfiles banner")
+      ![Cooking gif](/TTlaugh/images/cooking.gif "Wanna cook with me?")
 
 ### Footer
 footer_show_references: true
