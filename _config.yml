@@ -139,8 +139,10 @@ content:
   - title: When I’m Not At My Desk
     layout: text
     content: |
-      ![cooking.gif](/TTlaugh/images/cooking.gif "Wanna cook with me?")
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+
+      <img align="left" height="150" src="/TTlaugh/images/cooking.gif"/>
+
       - Cooking (really love cooking!)
       - Traveling
       - Gaming (seft-host all my games server on my home server)
