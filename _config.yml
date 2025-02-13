@@ -12,7 +12,7 @@ email: nltt@tuta.io
 # website: github.com/TTlaugh
 
 ### Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 ### Social links
 # twitter_username: TTlaugh
@@ -58,7 +58,7 @@ content:
         title: QMgr
         sub_title: Founder & Primary Developer
         link: https://github.com/TTlaugh/QMgr
-        link_text: TTlaugh/QMgr
+        link_text: visit
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
@@ -73,7 +73,7 @@ content:
         title: anett
         sub_title: Founder & Primary Developer
         link: https://github.com/TTlaugh/anett
-        link_text: TTlaugh/anett
+        link_text: visit
         quote: >
           System administration project: Terminal User Interface (TUI) tool that automatically install and configure services on linux server using docker e.g. DNS, FTP, Web,...
         description: | # this will include new lines to allow paragraphs
@@ -84,7 +84,7 @@ content:
         title: Dotfiles
         sub_title: Explorer & Developer
         link: https://github.com/TTlaugh/Dotfiles
-        link_text: TTlaugh/Dotfiles
+        link_text: visit
         quote: >
           My Linux Dotfiles: Minimal, performance-focused. Extremely fast and small without sacrificing convenience.
         description: | # this will include new lines to allow paragraphs
