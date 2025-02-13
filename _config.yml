@@ -85,22 +85,24 @@ content:
           <mark>Administration</mark> <mark>Troubleshooting</mark> <mark>Scripting</mark> <mark>Home server</mark>
 
   - title: Skills
-    layout: text
-    content: |
-      **System Administration**
-        - Networking, Scripting, Monitoring, Security, Active Directory, Cloud Computing
-      ## Hardware
-        - System Building, Maintenance, Prototyping
-      Systems
-        - Debian - Redhat - Arch based Linux, Proxmox
-        - Windows 10/11, Windows Server
-      Software (Backend)
-        - Docker, MySQL/MariaDB, Apache, NGINX, IIS
-      Software (Other)
-        - Git, Vim, Eclipse, OSS,...
-      Languages
-        - C, C++, Java, GO, Python
-        - Bash, Powershell, SQL
+    layout: list
+    content:
+      - layout: top-middle
+        description: |
+          - **System Administration**
+            - Networking, Scripting, Monitoring, Security, Active Directory, Cloud Computing
+          - **Hardware**
+            - System Building, Maintenance, Prototyping
+          - **Systems**
+            - Debian - Redhat - Arch based Linux, Proxmox
+            - Windows 10/11, Windows Server
+          - **Software (Backend)**
+            - Docker, MySQL/MariaDB, Apache, NGINX, IIS
+          - **Software (Other)**
+            - Git, Vim, Eclipse, OSS,...
+          - **Languages**
+            - C, C++, Java, GO, Python
+            - Bash, Powershell, SQL
 
   - title: Work Experience
     layout: list
