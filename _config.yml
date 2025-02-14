@@ -7,7 +7,7 @@ version: 2
 
 ### Personal info
 name: Nguyễn Lê Tiến Triển
-title: Intern Network System Administrator
+title: Intern System Administrator
 email: nltt@tuta.io
 # website:
 
@@ -42,7 +42,9 @@ linkedin_username: TTlaugh
 about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: |
-  Hi, my name's Trien and I'm a intern network system administrator. As well as administrating systems I also have experience making software. I hope to work in a challenging and engaging environment where I can contribute my skills towards a meaningful goal.
+  Hi there, I'm Trien! 👋
+
+  I'm a intern system administrator. As well as administrating systems I also have experience making software. I hope to work in a challenging and engaging environment where I can contribute my skills towards a meaningful goal.
 
 content:
   - title: Projects
@@ -51,7 +53,7 @@ content:
       - layout: top-middle
         border: weak
         title: QMgr
-        sub_title: Founder & Primary Developer
+        sub_title: Founder & Primary Backend Developer
         link: https://github.com/TTlaugh/QMgr
         # link_text: visit
         quote: >
@@ -78,7 +80,7 @@ content:
         link: https://github.com/TTlaugh/Dotfiles
         # link_text: visit
         quote: >
-          My Linux Dotfiles: Minimal, performance-focused. Extremely fast and small without sacrificing convenience.
+          My Workflow Optimization: Minimal, performance-focused. Extremely fast and small without sacrificing convenience.
         description: |
           I started exploring the world of Linux when I first entered high school. After a period of using Windows and gaining some experience in troubleshooting and problem-solving, I decided to switch to a new home - GNU/Linux. Through my journey with multiple Linux distributions and continuous exploration, I gained a deeper understanding of many computer-related concepts, including hardware, networking, and how an operating system works. I also started learning programming and created my own development environment on Linux, which is my Dotfiles.
 
@@ -141,11 +143,11 @@ content:
     content: |
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
 
-      <img align="right" height="150" src="/TTlaugh/images/cooking.gif"/>
+      <img align="right" height="100" src="/TTlaugh/images/cooking.gif"/>
 
-      - Cooking (really love cooking!)
+      - Cooking (really love cooking 🔥)
       - Traveling
-      - Gaming (seft-host all my games server on my home server)
+      - Gaming
       - Linux Ricing
 
 ### Footer
