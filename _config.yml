@@ -49,9 +49,9 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: QMgr
+        title: Quizz
         sub_title: Founder & Primary Backend Developer
-        link: https://github.com/TTlaugh/QMgr
+        link: https://github.com/TTlaugh/Quizz
         # link_text: visit
         quote: >
           Quiz management system for schools, teachers or simply want to organize a quiz test.
@@ -83,28 +83,6 @@ content:
 
           <mark>Administration</mark> <mark>Troubleshooting</mark> <mark>Scripting</mark> <mark>Home server</mark>
 
-  - title: Skills
-    layout: list
-    content:
-      - layout: right
-        sub_title: Soft Skills
-        caption: Good communication and interpersonal skills. Effective time management and teamwork. Patient, sociable, friendly.
-        description: |
-          - **System Administration**
-            - Networking, Scripting, Monitoring, Security, Active Directory, Cloud Computing
-          - **Hardware**
-            - System Building, Maintenance, Prototyping
-          - **Systems**
-            - Debian - Redhat - Arch based Linux, Proxmox
-            - Windows 10/11, Windows Server
-          - **Software (Backend)**
-            - Docker, MySQL/MariaDB, Apache, NGINX, IIS
-          - **Software (Other)**
-            - Git, Vim, Eclipse, OSS,...
-          - **Languages**
-            - C, C++, Java, GO, Python
-            - Bash, Powershell, SQL
-
   - title: Work Experience
     layout: list
     content:
@@ -134,6 +112,28 @@ content:
         #
         description: |
           During my time at SGU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+  - title: Skills
+    layout: list
+    content:
+      - layout: right
+        sub_title: Soft Skills
+        caption: Good communication and interpersonal skills. Effective time management and teamwork. Patient, sociable, friendly.
+        description: |
+          - **System Administration**
+            - Networking, Scripting, Monitoring, Security, Active Directory, Cloud Computing
+          - **Hardware**
+            - System Building, Maintenance, Prototyping
+          - **Systems**
+            - Debian - Redhat - Arch based Linux, Proxmox
+            - Windows 10/11, Windows Server
+          - **Software (Backend)**
+            - Docker, MySQL/MariaDB, Apache, NGINX, IIS
+          - **Software (Other)**
+            - Git, Vim, Eclipse, OSS,...
+          - **Languages**
+            - C, C++, Java, GO, Python
+            - Bash, Powershell, SQL
 
   - title: When I’m Not At My Desk
     layout: text
