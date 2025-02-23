@@ -1,5 +1,5 @@
 ### Site
-repository: TTlaugh/TTlaugh/tree/resume
+repository: ttasc/ttasc/tree/resume
 favicon: images/favicon.ico
 
 ### Content configuration version
@@ -15,9 +15,9 @@ email: nltt@tuta.io
 darkmode: never
 
 ### Social links
-github_username:  TTlaugh
+github_username:  ttasc
 stackoverflow_username: "29622488"
-linkedin_username: TTlaugh
+linkedin_username: ttasc
 # twitter_username:
 # dribbble_username:
 # facebook_username:
@@ -51,7 +51,7 @@ content:
         border: weak
         title: Quizz
         sub_title: Founder & Primary Backend Developer
-        link: https://github.com/TTlaugh/Quizz
+        link: https://github.com/ttasc/Quizz
         # link_text: visit
         quote: >
           Quiz management system for schools, teachers or simply want to organize a quiz test.
@@ -63,7 +63,7 @@ content:
         border: weak
         title: anett
         sub_title: Founder & Primary Developer
-        link: https://github.com/TTlaugh/anett
+        link: https://github.com/ttasc/anett
         # link_text: visit
         quote: >
           System administration project: Terminal User Interface (TUI) tool that automatically install and configure services on linux server using docker e.g. DNS, FTP, Web,...
@@ -74,7 +74,7 @@ content:
       - layout: top-middle
         title: Dotfiles
         sub_title: Explorer & Developer
-        link: https://github.com/TTlaugh/Dotfiles
+        link: https://github.com/ttasc/Dotfiles
         # link_text: visit
         quote: >
           My Workflow Optimization: Minimal, performance-focused. Extremely fast and small without sacrificing convenience.
@@ -140,7 +140,7 @@ content:
     content: |
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
 
-      <img align="right" height="100" src="/TTlaugh/images/cooking.gif"/>
+      <img align="right" height="100" src="/ttasc/images/cooking.gif"/>
 
       - Cooking (really love cooking 🔥)
       - Traveling
