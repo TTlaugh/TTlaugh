@@ -44,6 +44,37 @@ about_content: |
   I'm a system administrator. As well as administrating systems I also have experience making software. I hope to work in a challenging and engaging environment where I can contribute my skills towards a meaningful goal.
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Saigon University (SGU)
+        caption: 2022 - Ongoing
+        sub_title: BSc Computer Engineering
+        # quote: >
+        #
+        description: |
+          During my time at SGU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+  - title: Work Experience
+    layout: list
+    content:
+      - layout: left
+        title: Information Technology Center of Saigon University
+        sub_title: Intern Network System Administrator
+        caption: October 2024 - April 2025
+        link: https://ttcntt.sgu.edu.vn/
+        link_text: ttcntt.sgu.edu.vn
+        quote: >
+          Every modern university needs its networks properly administered and Saigon University is no exception.
+        description: |
+          <mark>Linux Server</mark> <mark>Bash/PowerShell</mark> <mark>Docker</mark> <mark>Go/Python</mark>
+
+          - Gained on the job experience with industry standard software and practices
+          - Developed tools and utilities for application deployment and monitoring
+          - Developed a news website to replace an old website that had many security issues
+          - Provide top-level technical support to university students and staff
+
   - title: Projects
     layout: list
     content:
@@ -94,37 +125,6 @@ content:
           I started exploring the world of Linux when I first entered high school. After a period of using Windows and gaining some experience in troubleshooting and problem-solving, I decided to switch to a new home - GNU/Linux. Through my journey with multiple Linux distributions and continuous exploration, I gained a deeper understanding of many computer-related concepts, including hardware, networking, and how an operating system works. I also started learning programming and created my own development environment on Linux, which is my Dotfiles.
 
           <mark>Administration</mark> <mark>Troubleshooting</mark> <mark>Scripting</mark> <mark>Home server</mark>
-
-  - title: Work Experience
-    layout: list
-    content:
-      - layout: left
-        title: Information Technology Center of Saigon University
-        sub_title: Intern Network System Administrator
-        caption: October 2024 - April 2025
-        link: https://ttcntt.sgu.edu.vn/
-        link_text: ttcntt.sgu.edu.vn
-        quote: >
-          Every modern university needs its networks properly administered and Saigon University is no exception.
-        description: |
-          <mark>Linux Server</mark> <mark>Bash/PowerShell</mark> <mark>Docker</mark> <mark>Go/Python</mark>
-
-          - Gained on the job experience with industry standard software and practices
-          - Developed tools and utilities for application deployment and monitoring
-          - Developed a news website to replace an old website that had many security issues
-          - Provide top-level technical support to university students and staff
-
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: Saigon University (SGU)
-        caption: 2022 - Ongoing
-        sub_title: BSc Computer Engineering
-        # quote: >
-        #
-        description: |
-          During my time at SGU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
   - title: Skills
     layout: list
