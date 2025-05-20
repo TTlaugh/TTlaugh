@@ -7,7 +7,7 @@ version: 2
 
 ### Personal info
 name: Nguyễn Lê Tiến Triển
-title: System Administrator
+title: Seeking Internship or Employment
 email: nltt@tuta.io
 # website:
 
@@ -36,26 +36,14 @@ linkedin_username: ttasc
 #   url: Link url (eg. https://google.com)
 
 ### About Section
-about_title: About Me
+about_title: Career Objective
 about_profile_image: images/profile.jpeg
 about_content: |
-  Hi there, I'm Trien! 👋
+  Hi, I'm Trien! 👋
 
-  I'm a system administrator. As well as administrating systems I also have experience making software. I hope to work in a challenging and engaging environment where I can contribute my skills towards a meaningful goal.
+  I hope to work in a challenging and engaging environment where I can contribute my skills towards a meaningful goal.
 
 content:
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: Saigon University (SGU)
-        caption: 2022 - Ongoing
-        sub_title: BSc Computer Engineering
-        # quote: >
-        #
-        description: |
-          During my time at SGU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
   - title: Work Experience
     layout: list
     content:
@@ -74,6 +62,18 @@ content:
           - Developed tools and utilities for application deployment and monitoring
           - Developed a news website to replace an old website that had many security issues
           - Provide top-level technical support to university students and staff
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Saigon University (SGU)
+        caption: 2022 - Ongoing
+        sub_title: BSc Computer Engineering
+        # quote: >
+        #
+        description: |
+          During my time at SGU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
   - title: Projects
     layout: list
