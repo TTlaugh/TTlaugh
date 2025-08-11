@@ -128,11 +128,11 @@ content:
         quote: >
           These are projects written in Go.
         description: |
-          - [sgublogsite](https://github.com/ttasc/sgublogsite): During my internship as a System Administrator, alongside core responsibilities of deploying, monitoring, and maintaining requested services, I embarked on developing a school news website. Driven by a desire to learn, this project provided me with valuable experience in: web development process (outside my expertise), practical Go programming and library usage, and foundational web security principles. A website with simple technology for stability and security. However, due to limitations in frontend implementation, the project remains incomplete. I made the decision to discontinue development to focus on new projects better aligned with my core competencies and career goals.
-          <mark>Go</mark> <mark>Chi</mark> <mark>HTMX</mark> <mark>MariaDB/MySQL</mark>
+          - **[sgublogsite](https://github.com/ttasc/sgublogsite)**: During my internship as a System Administrator, alongside core responsibilities of deploying, monitoring, and maintaining requested services, I embarked on developing a school news website. Driven by a desire to learn, this project provided me with valuable experience in: web development process (outside my expertise), practical Go programming and library usage, and foundational web security principles. A website with simple technology for stability and security. However, due to limitations in frontend implementation, the project remains incomplete. I made the decision to discontinue development to focus on new projects better aligned with my core competencies and career goals.
+            - <mark>Go</mark> <mark>Chi</mark> <mark>HTMX</mark> <mark>MariaDB/MySQL</mark>
 
-          - [craftt](https://github.com/ttasc/craftt) was born from observing my brother's struggle to manage our Proxmox-hosted Minecraft server due to limited terminal/SSH knowledge. This web app simplifies server control with one-click start/stop, live log viewing, and command execution. Beyond solving accessibility issues, it became a learning platform where I mastered Linux container process control, built secure TLS-enabled Go servers, and engineered real-time WebSocket data streaming for log interactions.
-          <mark>Go</mark> <mark>Process handling</mark> <mark>WebSocket</mark> <mark>TLS</mark>
+          - **[craftt](https://github.com/ttasc/craftt)** was born from observing my brother's struggle to manage our Proxmox-hosted Minecraft server due to limited terminal/SSH knowledge. This web app simplifies server control with one-click start/stop, live log viewing, and command execution. Beyond solving accessibility issues, it became a learning platform where I mastered Linux container process control, built secure TLS-enabled Go servers, and engineered real-time WebSocket data streaming for log interactions.
+            - <mark>Go</mark> <mark>Process handling</mark> <mark>WebSocket</mark> <mark>TLS</mark>
 
       #############
       ### anett ###
