@@ -105,6 +105,8 @@ content:
         quote: >
           Quiz management system for schools, teachers or simply want to organize a quiz test.
         description: |
+          ![Quizz](./prjimg/Quizz.png)
+
           I started this project as a way to learn about **Java** and **OOP**. In its early days, it was just a simple CLI software without a database. With the collaboration of my friends at university, I continued to develop it into a beautiful **GUI** application that can be used over a **LAN**. Although it is not yet production-ready due to existing bugs and incomplete features (*primarily within the GUI processing layer*), I successfully developed and solidified the core *backend* functionality, ensuring its smooth operation.
 
           <mark>JavaFX</mark> <mark>Socket</mark> <mark>Multithreading</mark> <mark>MariaDB/MySQL</mark> <mark>Networking</mark> <mark>Excel Processing</mark>
@@ -128,11 +130,14 @@ content:
         quote: >
           These are projects written in Go.
         description: |
+          ![sgublogsite](./prjimg/sgublogsite.png)
+
           **[sgublogsite](https://github.com/ttasc/sgublogsite)**: During my internship as a System Administrator, alongside core responsibilities of deploying, monitoring, and maintaining requested services, I embarked on developing a school news website. Driven by a desire to learn, this project provided me with valuable experience in: web development process (outside my expertise), practical Go programming and library usage, and foundational web security principles. A website with simple technology for stability and security. However, due to limitations in frontend implementation, the project remains incomplete. I made the decision to discontinue development to focus on new projects better aligned with my core competencies and career goals.
             - <mark>Go</mark> <mark>Chi</mark> <mark>HTMX</mark> <mark>MariaDB/MySQL</mark>
 
           <br/>
 
+          ![craftt](./prjimg/craftt.png)
           **[craftt](https://github.com/ttasc/craftt)** was born from observing my brother's struggle to manage our Proxmox-hosted Minecraft server due to limited terminal/SSH knowledge. This web app simplifies server control with one-click start/stop, live log viewing, and command execution. Beyond solving accessibility issues, it became a learning platform where I mastered Linux container process control, built secure TLS-enabled Go servers, and engineered real-time WebSocket data streaming for log interactions.
             - <mark>Go</mark> <mark>Process handling</mark> <mark>WebSocket</mark> <mark>TLS</mark>
 
@@ -163,6 +168,7 @@ content:
         quote: >
           My Workflow Optimization: Minimal, performance-focused. Extremely fast and small without sacrificing convenience.
         description: |
+          ![Dotfiles](./prjimg/Dotfiles.png)
           I started exploring the world of Linux when I first entered high school. After a period of using Windows and gaining some experience in troubleshooting and problem-solving, I decided to switch to a new home - GNU/Linux. Through my journey with multiple Linux distributions and continuous exploration, I gained a deeper understanding of many computer-related concepts, including hardware, networking, and how an operating system works. I also started learning programming and created my own development environment on Linux, which is my Dotfiles.
 
           <mark>Administration</mark> <mark>Troubleshooting</mark> <mark>Scripting</mark> <mark>Networking</mark> <mark>Modifying OSS</mark> <mark>Home server</mark>
