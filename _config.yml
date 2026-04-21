@@ -66,10 +66,12 @@ content:
         description: |
           <mark>Linux Server</mark> <mark>Docker</mark> <mark>Go/Bash/Python</mark> <mark>FastPanel</mark>
 
-          - Gained on the job experience with industry standard software and practices
-          - Developed tools and utilities for application deployment and monitoring
-          - Tried developing a news website intended to replace the insecure legacy site
-          - Provide top-level technical support to university students and staff
+          - Managed and maintained Linux-based servers (Debian) to support internal systems and academic platforms
+          - Deployed and configured V-SAT examination system, ensuring stable and secure operation
+          - Administered web hosting environment using FastPanel, including domain, database, and user management
+          - Implemented and maintained WordPress websites using Docker, improving deployment consistency and scalability
+          - Built a lightweight internal web application using Golang and HTMX to display announcements and system information
+          - Performed system monitoring, basic troubleshooting, and service configuration on both Linux and Windows environments
 
   #################
   ### Education ###
